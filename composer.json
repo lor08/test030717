@@ -1,0 +1,15 @@
+{
+    "name": "lor08/test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "lor08",
+            "email": "spike.09@ya.ru"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "^3.2",
+        "psr/log": "^1.0",
+        "symfony/process": "^3.3"
+    }
+}
